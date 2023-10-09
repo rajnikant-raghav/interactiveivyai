@@ -142,7 +142,8 @@ h1{
         font-size: 25px;
     }
     .input_container input{
-        margin-left: 1vw;
+        width: 70vw;
+        margin-left: 0vw;
     }
   }
   
